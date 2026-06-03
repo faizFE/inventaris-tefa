@@ -41,7 +41,7 @@ use App\Models\Peminjaman;
                     <i class="bi bi-people"></i>
                 </div>
                 <div>
-                    <div class="text-muted small">Total Peminjam</div>
+                    <div class="text-muted small">Total Akun Peminjam</div>
                     <div class="fs-4 fw-bold">{{Peminjam::count() }}</div>
                 </div>
             </div>
